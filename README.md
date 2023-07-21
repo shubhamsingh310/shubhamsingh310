@@ -1,3 +1,4 @@
+![LinkedIn Banner](https://github.com/shubhamsingh310/shubhamsingh310/assets/116839259/6b110948-b409-491c-94b0-7720815c2303)
 <h1 align="center">Hi there👋 , I'm Shubham Singh</h1>
 <h3 align="center">A Passionate FullStack Developer from Mumbai, India. Some technologies i enjoy working with include MERN Stack (MongoDb + Express JS + React JS + Node JS) and Firebase.</h3>
 
